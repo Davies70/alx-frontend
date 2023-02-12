@@ -51,7 +51,7 @@ a {
 }
 
 .section-header {
-    align-self: var(--section-header-align);
+    justify-content: var(--section-header-align);
 }
 .section-tagline {
     color: var(--color-primary);
