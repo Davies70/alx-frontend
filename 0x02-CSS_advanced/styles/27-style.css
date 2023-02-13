@@ -556,7 +556,7 @@ a:active {
 }
 
 .section-hero {
-    background-image: 90rem auto;
+    background: 90rem auto;
 }
 
 .section-hero .section-title {
