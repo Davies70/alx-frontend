@@ -511,7 +511,7 @@ a:active {
 
 .card-category .card-avatar {
     border-radius: 50%;
-    width: 10rem;
+    border-width: 10rem;
     height: 10rem;
 }
 
