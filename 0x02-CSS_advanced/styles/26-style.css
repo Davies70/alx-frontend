@@ -509,9 +509,9 @@ a:active {
     text-align: center;
 }
 
-.card-category .card-avatar {
+.card-testimonial .card-avatar {
     border-radius: 50%;
-    border-width: 10rem;
+    width: 10rem;
     height: 10rem;
 }
 
