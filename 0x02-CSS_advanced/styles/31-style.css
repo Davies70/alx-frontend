@@ -559,7 +559,7 @@ a:active {
 }
 
 .card-testimonial .card-quote {
-    position: absolute;
+    position: relative;
 }
 
 .card-testimonial .card-quote::before {
