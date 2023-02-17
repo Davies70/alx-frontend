@@ -177,6 +177,10 @@
     white-space: nowrap;
   }
 
+  main img {
+    width: 100%;
+    height: auto;
+  }
   /*** 2. LAYOUT ***/
 
   /* Layout
@@ -212,6 +216,7 @@
   .col-1-2 {
     width: calc((100% / 2) - 2rem);
   }
+
 
   /* Navbar
       ============================= */
@@ -399,6 +404,7 @@
   .section-latest-news .row {
     flex-direction: row-reverse;
   }
+
 
   /* Section SERVICES
       ============================= */
